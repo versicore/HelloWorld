@@ -12,3 +12,7 @@ void branchFunc() {
 void newBranchFunc() {
 	//Branch!!
 }
+
+void masterFunc() {
+	//Master!!!
+}
