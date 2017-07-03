@@ -8,3 +8,7 @@ int main() {
 void branchFunc() {
 	std::cout << "Branched!" << std::endl;
 }
+
+void masterFunc() {
+	//MAster!!!
+}
