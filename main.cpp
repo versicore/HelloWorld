@@ -16,3 +16,7 @@ void newBranchFunc() {
 void masterFunc() {
 	//Master!!!
 }
+
+void k_devFunc() {
+	//K_dev branch!!!
+}
